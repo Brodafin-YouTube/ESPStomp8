@@ -1,5 +1,7 @@
 ESP STOMP8 DIGITAL DIY DUAL STOMP PAD 
 
+FOR CONSTRUCTION DETAILS AND MORE, GO TO YOUTUBE AT https://youtu.be/xr_I2tv7yJs
+
 This project uses an ESP-32 and the compiled code ESPSTOMP8.  The code includes eight embedded hex PCM data array elements, which are played using the command:
 
 playAudioDAC(audioFiles[counter1], audioSizes[counter1]
